@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("Goodbye A!");
 		System.out.println("Goodbye B!");
 		System.out.println("Goodbye C!");
+		System.out.println("Goodbye D!");
 	}
 
 }
