@@ -6,6 +6,8 @@ public class Main {
 		System.out.println("Ninja !");
 		System.out.println("A");
 		System.out.println("B");
+		System.out.println("A and C");
+		System.out.println("B and D");
 	}
 
 }
